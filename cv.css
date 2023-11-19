@@ -1,0 +1,57 @@
+primary-color: #2f80ed;
+secondary-color: #333333;
+
+html{
+	font-family: Roboto, sans-serif;
+}
+
+*{
+	color: #333333;
+}
+
+h1{
+	color:#2f80ed;
+	margin-bottom: 0.25em;
+}
+
+h2{
+	color:#333333;
+	font-size: 1em;
+	margin-bottom:0;
+	margin-top: 1em;
+}
+h3{
+	color: #2f80ed;
+}
+
+a{
+	color: #2f80ed;
+}
+
+.contacts{
+	margin-bottom: 2em;
+}
+.contact{
+min-width: 90px;	
+}
+
+.expirience{
+	display: flex;
+	margin-bottom: 2em;	
+}
+.expirience_date{
+		min-width: 185px;
+		margin-bottom: 1em;
+	}
+.expirience_name{
+		font-weight: bold;
+	}
+	.cv{
+		max-width: 900px;
+		margin: 0 auto;
+	}
+
+	img{width: 70px;
+		height: 100px;
+		position: relative;
+	}
